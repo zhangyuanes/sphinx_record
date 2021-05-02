@@ -17,4 +17,18 @@ Read the Docs sphinx-record
 .. _Read the Docs: http://www.readthedocs.org
 .. _sphinx-record: https://sphinx-record.readthedocs.io/zh/latest/
 
+使用Sphinx撰写技术文档并生成在线文档代理，并且可以输出LaTex的PDF，详细教学内容参见 [1]_ ， 文档构建架构参见 [2]_ 。
+
+关于github徽章部分参见 [3]_ 。
+
+**************
+References
+**************
+
+.. [1] https://blog.csdn.net/weixin_34249367/article/details/88589946
+
+.. [2] https://github.com/qiwihui/sphinx-doc-starter
+
+.. [3] https://shields.io/
+
 
