@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to interview-summary's documentation!
+Welcome to zhangyuanes' documentation!
 =============================================
 
 .. toctree::
@@ -11,5 +11,6 @@ Welcome to interview-summary's documentation!
     :caption: Contents:
 
     offer/contents
+    skill/contents
 
 
