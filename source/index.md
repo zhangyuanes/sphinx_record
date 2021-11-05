@@ -12,5 +12,6 @@ Welcome to zhangyuanes' documentation!
 
     offer/contents
     skill/contents
+    C++dev/contents
 
 
